@@ -1,0 +1,1 @@
+ORIGIN_DATA="<Ruta al fichero sqlite>"
